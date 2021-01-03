@@ -1,1 +1,4 @@
 .flaskEnv
+.vscode
+__pycache__
+libraryDatabase
